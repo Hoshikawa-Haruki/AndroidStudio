@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidKotlin"
 include(":app")
+include(":ch6_view")
